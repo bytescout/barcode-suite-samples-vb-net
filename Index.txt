@@ -1,0 +1,262 @@
+## Index of source code examples:
+
+\Acquire image from scanner and decode with barcode reader sdk
+\Add area chart with spreadsheet sdk
+\Add background image with spreadsheet sdk
+\Add bar chart with spreadsheet sdk
+\Add barcode to pdf with barcode sdk
+\Add bubble chart with spreadsheet sdk
+\Add checksum to caption with barcode sdk
+\Add checksum with barcode sdk
+\Add column chart with spreadsheet sdk
+\Add columns into existing spreadsheet with spreadsheet sdk
+\Add combination chart with spreadsheet sdk
+\Add custom images to pdf document with barcode sdk
+\Add doughnut chart with spreadsheet sdk
+\Add header and footer with spreadsheet sdk
+\Add images advanced with spreadsheet sdk
+\Add images with spreadsheet sdk
+\Add line chart with spreadsheet sdk
+\Add pie chart with spreadsheet sdk
+\Add radar chart with spreadsheet sdk
+\Add rows into existing spreadsheet with spreadsheet sdk
+\Add stock chart with spreadsheet sdk
+\Add surface chart with spreadsheet sdk
+\Add to image with barcode sdk
+\Add to multi tiff with barcode sdk
+\Add to new pdf with barcode sdk
+\Add xyscatter chart with spreadsheet sdk
+\Additional caption with barcode sdk
+\Barcode image preprocessing filters with barcode reader sdk
+\Barcode reading profiles with barcode reader sdk
+\Batch read barcodes to csv with barcode reader sdk
+\Batch read from files with barcode reader sdk
+\Bookland barcode with barcode sdk
+\Calculate formula in cell with spreadsheet sdk
+\Calculate xirr function with spreadsheet sdk
+\Calculations and spreadsheet as database with spreadsheet sdk
+\Change barcode color with barcode sdk
+\Change cell width and height with spreadsheet sdk
+\Change column width and row height with spreadsheet sdk
+\Change data in existing spreadsheet with spreadsheet sdk
+\Change document properties with spreadsheet sdk
+\Convert ods to sql server with spreadsheet sdk
+\Convert template to xls with spreadsheet sdk
+\Convert txt to sql server with spreadsheet sdk
+\Convert xls to csv with spreadsheet sdk
+\Convert xls to sql server (via csv bulk insert) with spreadsheet sdk
+\Convert xls to sql server with spreadsheet sdk
+\Convert xls to txt with spreadsheet sdk
+\Convert xls to xlsx with spreadsheet sdk
+\Convert xls to xml and xml to xls with spreadsheet sdk
+\Convert xls to xml with spreadsheet sdk
+\Convert xlsx to sql server with spreadsheet sdk
+\Convert xml to xls with spreadsheet sdk
+\Copy range with spreadsheet sdk
+\Copy worksheet with spreadsheet sdk
+\Copypaste columns with spreadsheet sdk
+\Copypaste rows with spreadsheet sdk
+\Create simple hello world spreadsheet with spreadsheet sdk
+\Create worksheets with spreadsheet sdk
+\Create xlsx with spreadsheet sdk
+\Csv to sql server with spreadsheet sdk
+\Csv to xls with spreadsheet sdk
+\Decode australian post code barcode with barcode reader sdk
+\Decode aztec barcode with barcode reader sdk
+\Decode bookland barcode with barcode reader sdk
+\Decode checkboxes barcode with barcode reader sdk
+\Decode codabar barcode with barcode reader sdk
+\Decode codablock f barcode with barcode reader sdk
+\Decode code 128 barcode with barcode reader sdk
+\Decode code 16k barcode with barcode reader sdk
+\Decode code 39 barcode with barcode reader sdk
+\Decode code 93 barcode with barcode reader sdk
+\Decode damaged code 128 barcode with barcode reader sdk
+\Decode damaged code 39 barcode with barcode reader sdk
+\Decode damaged datamatrix barcode with barcode reader sdk
+\Decode damaged qr code barcode with barcode reader sdk
+\Decode datamatrix barcode with barcode reader sdk
+\Decode deutsche post identcode barcode with barcode reader sdk
+\Decode deutsche post leitcode barcode with barcode reader sdk
+\Decode ean-128 barcode with barcode reader sdk
+\Decode ean-13 barcode with barcode reader sdk
+\Decode ean-14 barcode with barcode reader sdk
+\Decode ean-2 barcode with barcode reader sdk
+\Decode ean-5 barcode with barcode reader sdk
+\Decode ean-8 barcode with barcode reader sdk
+\Decode gs1 databar expanded barcode with barcode reader sdk
+\Decode gs1 databar expanded stacked barcode with barcode reader sdk
+\Decode gs1 databar limited barcode with barcode reader sdk
+\Decode gs1 databar omnidirectional barcode with barcode reader sdk
+\Decode gs1 databar stacked barcode with barcode reader sdk
+\Decode gs1 datamatrix barcode with barcode reader sdk
+\Decode gs1-128 barcode with barcode reader sdk
+\Decode intelligent mail barcode with barcode reader sdk
+\Decode interleaved 2 of 5 barcode with barcode reader sdk
+\Decode isbn barcode with barcode reader sdk
+\Decode itf-14 barcode with barcode reader sdk
+\Decode jan-13 barcode with barcode reader sdk
+\Decode macro pdf417 barcode with barcode reader sdk
+\Decode maxicode barcode with barcode reader sdk
+\Decode micr from bank check barcode with barcode reader sdk
+\Decode numly barcode with barcode reader sdk
+\Decode page by page from tiff barcode with barcode reader sdk
+\Decode patch code barcode with barcode reader sdk
+\Decode pdf417 barcode with barcode reader sdk
+\Decode pzn barcode with barcode reader sdk
+\Decode qr code barcode with barcode reader sdk
+\Decode qr code barcode with json with barcode reader sdk
+\Decode royal mail barcode with barcode reader sdk
+\Decode royal mail kix barcode with barcode reader sdk
+\Decode swiss post parcel barcode with barcode reader sdk
+\Decode truncated pdf417 barcode with barcode reader sdk
+\Decode upc-a barcode with barcode reader sdk
+\Decode upc-e barcode with barcode reader sdk
+\Decode usps sack label barcode with barcode reader sdk
+\Decode usps tray label barcode with barcode reader sdk
+\Decoding barcodes from pdf by pages with barcode reader sdk
+\Display barcode on form with barcode sdk
+\Draw caption with barcode sdk
+\Export results to xml, csv, txt with barcode reader sdk
+\Export to 2d array with spreadsheet sdk
+\Export to dataset with spreadsheet sdk
+\Export to datatable with spreadsheet sdk
+\Export to html with spreadsheet sdk
+\Export to jagged array with spreadsheet sdk
+\Export to json with spreadsheet sdk
+\Export to list with spreadsheet sdk
+\Export to pdf with spreadsheet sdk
+\Export to winforms datagrid with spreadsheet sdk
+\Fit into given size with barcode sdk
+\Font style in cell with spreadsheet sdk
+\Fonts available for cells with spreadsheet sdk
+\Freeze rows and columns with spreadsheet sdk
+\General barcode reading example with barcode reader sdk
+\Generate and check QR Code barcode with image inside
+\Generate aztec (2d) barcode with barcode sdk
+\Generate aztec barcode with binary data with barcode sdk
+\Generate barcode from service with barcode sdk
+\Generate barcode with barcode sdk
+\Generate barcodes from database with barcode sdk
+\Generate barcodes from excel with barcode sdk
+\Generate codabar barcode with barcode sdk
+\Generate code 128 barcode with barcode sdk
+\Generate code 39 barcode with barcode sdk
+\Generate code 93 barcode with barcode sdk
+\Generate datamatrix (2d) barcode with barcode sdk
+\Generate datamatrix with binary data with barcode sdk
+\Generate deutsche post identcode barcode with barcode sdk
+\Generate deutsche post leitcode barcode with barcode sdk
+\Generate dutch kix barcode with barcode sdk
+\Generate ean-128 barcode with barcode sdk
+\Generate ean-13 barcode with barcode sdk
+\Generate ean-8 barcode with barcode sdk
+\Generate gs1 datamatrix barcode with barcode sdk
+\Generate gs1 qr code barcode with barcode sdk
+\Generate invoice with spreadsheet sdk
+\Generate isbn barcode with barcode sdk
+\Generate jan-13 barcode with barcode sdk
+\Generate macro pdf417 (multiple)  barcode with barcode sdk
+\Generate maxicode barcode with barcode sdk
+\Generate maxicode mode 2-3 (postal) barcode with barcode sdk
+\Generate msi barcode with barcode sdk
+\Generate numly barcode with barcode sdk
+\Generate pdf417 (2d) barcode with barcode sdk
+\Generate pdf417 barcode with binary data with barcode sdk
+\Generate pdf417 truncated (2d) barcode with barcode sdk
+\Generate pharmacode barcode with barcode sdk
+\Generate planet barcode with barcode sdk
+\Generate plessey barcode with barcode sdk
+\Generate postnet barcode with barcode sdk
+\Generate pzn barcode with barcode sdk
+\Generate qr code (2d) barcode with barcode sdk
+\Generate qr code barcode with binary data with barcode sdk
+\Generate qr code barcode with calenderentry with barcode sdk
+\Generate qr code barcode with image with barcode sdk
+\Generate qr code barcode with json with barcode sdk
+\Generate royal mail barcode with barcode sdk
+\Generate singapore postal code barcode with barcode sdk
+\Generate swiss post parcel barcode with barcode sdk
+\Generate upca barcode with barcode sdk
+\Generate upce barcode with barcode sdk
+\Generate usps sack label with barcode sdk
+\Generate usps tray label with barcode sdk
+\Generate vcard qr code with barcode sdk
+\Generate word document with barcodes with barcode sdk
+\Get cell color with spreadsheet sdk
+\Gui example for barcode reading with barcode reader sdk
+\Import from 2d array with spreadsheet sdk
+\Import from dataset with spreadsheet sdk
+\Import from datatable with spreadsheet sdk
+\Import from jagged array with spreadsheet sdk
+\Import from json with spreadsheet sdk
+\Import from list with spreadsheet sdk
+\Import from winforms datagrid with spreadsheet sdk
+\Insert page break with spreadsheet sdk
+\Interleaved 2 of 5 barcode with barcode sdk
+\Interrupt barcode processing with barcode reader sdk
+\Line styles in cells with spreadsheet sdk
+\Margins with barcode sdk
+\Merge cells with spreadsheet sdk
+\Merge two documents with spreadsheet sdk
+\Multiple barcode generation with barcode sdk
+\Narrow bar width with barcode sdk
+\Number format in cells with spreadsheet sdk
+\Optical product with barcode sdk
+\Options codabar with barcode sdk
+\Options code128 with barcode sdk
+\Parallel barcode decoding with barcode reader sdk
+\Print barcode with barcode sdk
+\Print labels with barcode sdk
+\Read barcode from live video cam (simplified) with barcode reader sdk
+\Read barcode from live video cam (wpf) with barcode reader sdk
+\Read barcode from live video cam with barcode reader sdk
+\Read barcodes from pdf with barcode reader sdk
+\Read barcodes from tiff with barcode reader sdk
+\Read cell color with spreadsheet sdk
+\Read checkboxes from image with barcode reader sdk
+\Read csv file with spreadsheet sdk
+\Read date from cell with spreadsheet sdk
+\Read document properties with spreadsheet sdk
+\Read formula from cell with spreadsheet sdk
+\Read merged cells with spreadsheet sdk
+\Read number format in cell with spreadsheet sdk
+\Read ods (open office calc) files with spreadsheet sdk
+\Read vcard from qr code with barcode reader sdk
+\Read xlsx (office 2007) files with spreadsheet sdk
+\Read xml spreadsheet (spreadsheetml format) with spreadsheet sdk
+\Reduce cpu usage with barcode reader sdk
+\Remove columns from existing spreadsheet with spreadsheet sdk
+\Remove rows from existing spreadsheet with spreadsheet sdk
+\Rename worksheet with spreadsheet sdk
+\Rendering options with barcode sdk
+\Rich text formatting in cell with spreadsheet sdk
+\Search text with spreadsheet sdk
+\Select active worksheet with spreadsheet sdk
+\Set angle with barcode sdk
+\Set barcode height with barcode sdk
+\Set cell alignment with spreadsheet sdk
+\Set cell formula with spreadsheet sdk
+\Set custom caption with barcode sdk
+\Set custom functions with spreadsheet sdk
+\Set date formatting in cells with spreadsheet sdk
+\Set hidden formula with spreadsheet sdk
+\Set hidden rows and columns with spreadsheet sdk
+\Set shrinktofit for cells with spreadsheet sdk
+\Set unicode text in barcode with barcode sdk
+\Set wide to narrow ratio with barcode sdk
+\Split pdf document by found barcode with barcode reader sdk
+\Swap cells and their values with spreadsheet sdk
+\Swap worksheets with spreadsheet sdk
+\Unmerge cells with spreadsheet sdk
+\Use rich formatting to create report with spreadsheet sdk
+\Use unicode text with spreadsheet sdk
+\Validate cell if value is in range with spreadsheet sdk
+\Validate cells with dates with spreadsheet sdk
+\Validate data in cell and mark wrong with color with spreadsheet sdk
+\View spreadsheet with spreadsheet sdk
+\Winforms barcode control with barcode sdk
+\Wpf ui barcode reading example with barcode reader sdk
+\Batch read barcodes to csv with barcode reader sdk\BarcodeFiles
+\Generate barcode from service with barcode sdk\ServiceController
+\Generate barcode from service with barcode sdk\WindowsService
